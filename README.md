@@ -19,7 +19,7 @@ Python
 ## 📑 Projetos
 - Edit-IA
 
-## Contato
+## 📭 Contato
 
 Se você tiver algum projeto interessante ou quiser conversar sobre desenvolvimento, fique à vontade para entrar em contato!
 
