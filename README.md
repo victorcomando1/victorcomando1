@@ -16,6 +16,9 @@ Atualmente, estou expandindo meu conhecimento e iniciando o aprendizado de Pytho
 
 - Em breve
 
+## Projetos
+- Edit-IA
+
 ## Contato
 
 Se você tiver algum projeto interessante ou quiser conversar sobre desenvolvimento, fique à vontade para entrar em contato!
