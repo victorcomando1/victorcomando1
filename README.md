@@ -19,8 +19,6 @@ Atualmente, estou estudando Python e explorando suas capacidades para aplicaçõ
 
 Se você tiver algum projeto interessante ou quiser conversar sobre desenvolvimento, fique à vontade para entrar em contato!
 
-[![Comunidade no Discord](https://img.shields.io/badge/Comunidade%20no%20Discord-7289DA?style=for-the-badge&logo=discord)]([https://discord.com](https://discord.gg/wF49kAGVxV))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/victorcomando1/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)]([https://youtube.com](https://www.youtube.com/@victorcomando/))
-
-
+[![Comunidade no Discord](https://img.shields.io/badge/Comunidade%20no%20Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.com](https://discord.gg/wF49kAGVxV)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com)
