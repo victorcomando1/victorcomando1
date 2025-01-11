@@ -6,7 +6,7 @@ Atualmente, estou expandindo meu conhecimento e iniciando o aprendizado de Pytho
 
 ## Criações
 
-**MTA
+MTA
 - Sistema completo de inventário com ou sem sistema de craft e gerenciamento de itens.
 - Sistemas de empregos que usam ou não usam sistema de level/Xp.
 - Sistemas de animações por comando igual FiveM (/e cruzar).
