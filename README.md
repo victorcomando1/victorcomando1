@@ -14,7 +14,7 @@ MTA
 - Entre outros...
 
 Python
-- Em breve
+- Em breve.
 
 ## 📑 Projetos
 - Edit-IA.
