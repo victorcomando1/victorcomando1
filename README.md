@@ -6,10 +6,10 @@ Atualmente, estou expandindo meu conhecimento e iniciando o aprendizado de Pytho
 
 ## Projetos em MTA
 
-- **Inventários personalizados**: Sistema completo de inventário com/sem crafter e gerenciamento de itens.
-- **Sistemas de empregos que usa ou não usa sistema de level/Xp.
-- **Sistemas de animações por comando igual FiveM (/e cruzar).
-- **Sistemas de Progress bar (carregamento de interação).
+- Inventários personalizados**: Sistema completo de inventário com/sem crafter e gerenciamento de itens.
+- Sistemas de empregos que usa ou não usa sistema de level/Xp.
+- Sistemas de animações por comando igual FiveM (/e cruzar).
+- Sistemas de Progress bar (carregamento de interação).
 
 ## Em Aprendizado
 
