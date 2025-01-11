@@ -4,7 +4,7 @@ Olá, sou Victor Comando, e estou no mundo do desenvolvimento de scripts para MT
 
 Atualmente, estou expandindo meu conhecimento e iniciando o aprendizado de Python, buscando aprimorar minhas habilidades e explorar novas possibilidades no mundo da programação.
 
-## Criações
+## ⛏︎ Criações
 
 MTA
 - Sistema completo de inventário com ou sem sistema de craft e gerenciamento de itens.
