@@ -1,4 +1,4 @@
-# Victor Comando - Desenvolvimento de Scripts MTA e Python
+# Victor Comando - Desenvolvimento de Scripts e progamas
 
 Olá, sou Victor Comando, e estou no mundo do desenvolvimento de scripts para MTA (Multi Theft Auto) há 2 anos. Durante esse tempo, desenvolvi diversos sistemas personalizados. Minha experiência inclui o uso de LUA para criar funcionalidades inovadoras e melhorar a experiência do jogador.
 
@@ -19,8 +19,8 @@ Atualmente, estou estudando Python e explorando suas capacidades para aplicaçõ
 
 Se você tiver algum projeto interessante ou quiser conversar sobre desenvolvimento, fique à vontade para entrar em contato!
 
-[![Comunidade no Discord](https://img.shields.io/badge/Comunidade%20no%20Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com)
-[![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=microsoft-outlook)](mailto:seuemail@dominio.com)
+[![Comunidade no Discord](https://img.shields.io/badge/Comunidade%20no%20Discord-7289DA?style=for-the-badge&logo=discord)]([https://discord.com](https://discord.gg/wF49kAGVxV))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/victorcomando1/)
+[![contato.victorcomando@gmail.com](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=microsoft-outlook)](contato.victorcomando@gmail.com)
 
 
