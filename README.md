@@ -17,7 +17,8 @@ Python
 - Em breve
 
 ## 📑 Projetos
-- Edit-IA
+- Edit-IA.
+- Integração Mercado Pago com MTA.
 
 ## 📭 Contato
 
