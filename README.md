@@ -1,4 +1,4 @@
-# Victor Comando - Desenvolvimento de Scripts e progamas
+# Victor Comando - Desenvolvimento de Scripts e Programas
 
 Olá, sou Victor Comando, e estou no mundo do desenvolvimento de scripts para MTA (Multi Theft Auto) há 2 anos. Durante esse tempo, desenvolvi diversos sistemas personalizados. Minha experiência inclui o uso de LUA para criar funcionalidades inovadoras e melhorar a experiência do jogador.
 
@@ -6,15 +6,15 @@ Atualmente, estou expandindo meu conhecimento e iniciando o aprendizado de Pytho
 
 ## Criações no MTA
 
-- Sistema completo de inventário com/sem crafter e gerenciamento de itens.
-- Sistemas de empregos que usa ou não usa sistema de level/Xp.
+- Sistema completo de inventário com ou sem sistema de craft e gerenciamento de itens.
+- Sistemas de empregos que usam ou não usam sistema de level/Xp.
 - Sistemas de animações por comando igual FiveM (/e cruzar).
 - Sistemas de Progress bar (carregamento de interação).
 - Entre outros...
 
 ## Python
 
-- Em-breve
+- Em breve
 
 ## Contato
 
