@@ -8,8 +8,7 @@ Atualmente, estou expandindo meu conhecimento e iniciando o aprendizado de Pytho
 
 MTA
 - Sistema completo de inventário com ou sem sistema de craft e gerenciamento de itens.
-- Sistemas de empregos que usam ou não usam sistema de level/Xp.
-- Sistemas de animações por comando igual FiveM (/e cruzar).
+- Bot de liberação de Serial para MTA
 - Sistemas de Progress bar (carregamento de interação).
 - Entre outros...
 
@@ -17,8 +16,8 @@ Python
 - Em breve.
 
 ## 📑 Projetos
-- Edit-IA.
-- Integração Mercado Pago com MTA.
+- Bot de liberação de Serial para MTA.
+- Edit-IA
 
 ## 📭 Social
 
