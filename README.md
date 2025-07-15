@@ -16,8 +16,7 @@ Python
 - Em breve.
 
 ## 📑 Projetos
-- Bot de liberação de Serial para MTA.
-- Edit-IA
+[Clique aqui!](https://github.com/victorcomando1?tab=repositories)
 
 ## 📭 Social
 
